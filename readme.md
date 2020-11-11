@@ -1,7 +1,7 @@
 # AudioGraphics
 ### Musical Graphics Company
 
-<a href="includes/logo.png" width="200px">
+<a href="includes/logo.png">
 
 ## Topic :  Employee annual feedback analyser and progress meter
 
