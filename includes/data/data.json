@@ -1,0 +1,38 @@
+{
+    "employee":[
+       {
+           "id": 1,
+            "name": "Penny Tool",
+            "age":24,
+            "department":"Sales",
+            "rating": 4.5,
+            "revews": [
+                {
+                    "msg": "Hard working",
+                    "score":5
+                },
+                {
+                    "msg":"Mess up sometimes",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "id": 2,
+             "name": "Phillip Anthropy",
+             "age":30,
+             "department":"IT",
+             "rating": 4.1,
+             "revews": [
+                 {
+                     "msg": "Hard working",
+                     "score":3.5
+                 },
+                 {
+                     "msg":"Mess up sometimes",
+                     "score": 4
+                 }
+             ]
+         } 
+    ]
+}
